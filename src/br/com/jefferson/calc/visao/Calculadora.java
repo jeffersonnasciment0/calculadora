@@ -19,7 +19,7 @@ public class Calculadora extends JFrame{
 	}
 	
 	private void organizarLayout() {
-
+		
 		setLayout(new BorderLayout());
 		
 		Display display = new Display();

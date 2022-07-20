@@ -13,6 +13,7 @@ public class Calculadora extends JFrame{
 		organizarLayout();
 		
 		setSize(332,422);
+//		setUndecorated(true); Caso futuramente queira tirar barra do SO
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
 		setVisible(true);

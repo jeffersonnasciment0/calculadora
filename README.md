@@ -1,4 +1,4 @@
-<h1 align="center"> Project Calculator in JAVA with SWING - In progress :hourglass_flowing_sand: </h1> 
+<h1 align="center"> Project Calculator in JAVA with SWING - Conclueded ! :trophy: </h1> 
 
 
 ## ✔️ Técnicas e tecnologias utilizadas

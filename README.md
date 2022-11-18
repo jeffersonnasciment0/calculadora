@@ -4,13 +4,13 @@
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``☕ Java 17.0.3 2022-04-19``
-- ``👨🏽‍💻 Eclipse IDE``
+- ``👨🏽‍💻 Eclipse IDE versão 4.22``
 - ``📚 Paradigma de orientação a objetos``
 - ``🍃 Swing``
 
 
-# AULA 01
-Na primeira aula, construimos uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação... Tudo isso sem usar nenhuma biblioteca externa!
+# Padrão da calculadora
+A Calculadora criada segue o padrão de calculadora do mac, e foi desenvolvida para ser um clone da calculadora dos computadores MAC.
 
 
 
@@ -22,10 +22,11 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/jeffe
 ## 🛠️ Abrir e rodar o projeto
 
 - `Primeiro`: Abra o terminal no local onde deseja executar o projeto
-- `Segundo`: Execute o seguinte comando: `git clone https://github.com/jeffersonnasciment0/alura-imersao-java.git`
-- `Terceiro`: Execute: `cd alura-imersao-java/`
-- `Quarto`: Execute: `code .`
-- `Quinto`: Procure por um ícone semelhante a este ▶️ ou então encontre a palavra "run" acima do main, e pressione.
+- `Segundo`: Clone o projeto no local
+- `Terceiro`: Abra com o vscode ou com o editor que deseja
+- `Quarto`: Instale a extensão responsável por executar programas Java
+- `Quinto`: Caso saiba executar diretamente ou já esteja com a extensão instalada execute o programa principal
+- `Sexto` : O programa principal encontra-se em -> calculadora/src/br/com/jefferson/calc/visao/Calculadora.java
 
 E pronto ! 
  

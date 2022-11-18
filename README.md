@@ -1,12 +1,5 @@
 <h1 align="center"> Project Calculator in JAVA with SWING - In progress :hourglass_flowing_sand: </h1> 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=BLUE&style=for-the-badge)
-
-![GitHub license](https://img.shields.io/github/license/jeffersonnasciment0/alura-imersao-java)
-
-![GitHub forks](https://img.shields.io/github/forks/jeffersonnasciment0/alura-imersao-java)
-
-![GitHub Org's stars](https://img.shields.io/github/stars/jeffersonnasciment0/alura-imersao-java)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 

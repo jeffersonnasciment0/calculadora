@@ -13,6 +13,11 @@
 A Calculadora criada segue o padrão de calculadora do mac, e foi desenvolvida para ser um clone da calculadora dos computadores MAC.
 
 
+<img width="344" alt="kisspng-calculator-computer-keyboard-macbook-apple-numeric-5ba1a01dba8879 5445577715373189417641" src="https://user-images.githubusercontent.com/59482366/202805976-c9f7feee-e60e-4ee1-9f8d-a55b99060b3f.png">
+
+# Clone
+
+![img_calcJava](https://user-images.githubusercontent.com/59482366/202806098-0195c7cd-d107-493e-9526-8422b6258f05.png)
 
  
  ## 📁 Acesso ao projeto

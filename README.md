@@ -16,6 +16,7 @@ A Calculadora criada segue o padrão de calculadora do mac, e foi desenvolvida p
 <img width="344" alt="kisspng-calculator-computer-keyboard-macbook-apple-numeric-5ba1a01dba8879 5445577715373189417641" src="https://user-images.githubusercontent.com/59482366/202805976-c9f7feee-e60e-4ee1-9f8d-a55b99060b3f.png">
 
 # Clone
+Nosso clone não é exatamente igual, mas segue o padrão de coloração e de posicionamento de algumas teclas bem como algumas funcionalidades.
 
 ![img_calcJava](https://user-images.githubusercontent.com/59482366/202806098-0195c7cd-d107-493e-9526-8422b6258f05.png)
 
@@ -33,5 +34,6 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/jeffe
 - `Quinto`: Caso saiba executar diretamente ou já esteja com a extensão instalada execute o programa principal
 - `Sexto` : O programa principal encontra-se em -> calculadora/src/br/com/jefferson/calc/visao/Calculadora.java
 
-E pronto ! 
+# O que motivou ? 
+O projeto da calculadora foi realizado seguindo o curso de java completo, onde em um dos módulos de swing é proposto o projeto de calculadora.
  
